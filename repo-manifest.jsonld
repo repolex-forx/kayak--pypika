@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/kayak/pypika/commit/5e800d83a0f0ae14210410c02fd97e51e2e3f1d5",
       "git:hexsha": "5e800d83a0f0ae14210410c02fd97e51e2e3f1d5",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.51.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.51.1",
+      "repolex:parsedAt": "2026-10-18T05:16:01.793386+00:00"
     },
     {
       "@id": "https://repolex.ai/r/kayak/pypika/commit/a22a67d4985553c8d4d1848fbdbf7d464e1ab8e9",
