@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kayak/pypika/commit/5e800d83a0f0ae14210410c02fd97e51e2e3f1d5",
       "git:hexsha": "5e800d83a0f0ae14210410c02fd97e51e2e3f1d5",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.51.1"
     },
     {
