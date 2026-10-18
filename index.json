@@ -1,0 +1,11 @@
+{
+  "org": "kayak",
+  "repo": "pypika",
+  "versions": [
+    {
+      "commit": "5e800d83a0f0ae14210410c02fd97e51e2e3f1d5",
+      "tag": "v0.51.1",
+      "parsed_at": "2026-10-18T05:16:01.794235+00:00"
+    }
+  ]
+}
